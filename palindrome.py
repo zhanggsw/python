@@ -1,7 +1,7 @@
 '''
 Created on 201478
 
-@author: zhanggong
+@author: zhangg
 '''
 ''
 class Deque:

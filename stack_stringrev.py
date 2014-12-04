@@ -1,7 +1,7 @@
 '''
 Created on 2014623
 
-@author: zhanggong
+@author: zhangg
 '''
 import string
 class Stack():

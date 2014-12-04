@@ -1,7 +1,7 @@
 '''
 Created on 201477
 
-@author: zhanggong
+@author: zhangg
 '''
 class Queue:
     def __init__(self):

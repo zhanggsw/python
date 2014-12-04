@@ -1,7 +1,7 @@
 '''
 Created on
 
-@author: zhanggong
+@author: zhangg
 '''
 def kthSmallestS1(l1,k):
 # O(n) as sort() is O(n)

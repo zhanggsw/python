@@ -1,5 +1,5 @@
 '''
-@author: zhanggong
+@author: zhangg
 '''
 class Solution:
     # @param s, a string
